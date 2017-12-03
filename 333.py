@@ -9,6 +9,8 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
+ki4 = ki5 = ki6 = ki7 = ki
+
 print u"login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
