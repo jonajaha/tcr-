@@ -6,7 +6,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob
 
 cl = LINETCR.LINE()
-cl.login(token="EmfRscFLVyIHxys4tVS4.IzBhrpjGOBTPnxJRakTsXa.CK7WEA2a+zPmr4zkjvIIjeojj9pa8jjR/AgrKrgRmXk=")
+cl.login(qr=True)
 cl.loginResult()
 
 ki4 = ki5 = ki6 = ki7 = ki
@@ -60,7 +60,7 @@ helpMessage ="""•÷Ψṳ̤̈̈Ҝḧ̤̤̈ï̤̤̈Σ s̤̤̈̈Σl̤̤̈̈Ғ Δ
 [♣]Cancelprotect on/off
 [♣]Key
 
-A U T H O R - L I N E 
+Selfbot-Susu
 """
 helo=""
 
